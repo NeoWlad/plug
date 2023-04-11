@@ -172,7 +172,7 @@ h1{
 
 }
 .img img{
-    max-width: 1000px;
+    max-width: 900px;
 }
 
 .video {
@@ -182,7 +182,7 @@ h1{
 
 
 video{
-    width: 85%; 
+    width: 70%; 
 }
 
 
@@ -315,7 +315,9 @@ padding: 0px 30px 0px 30px;
         font-size: 30px;
     }
 
-
+    video{
+        width: 95%; 
+    }
 
 }
 
@@ -354,7 +356,9 @@ padding: 0px 10px 0px 10px;
 
         font-size: 30px;
     }
-
+    video{
+        width: 95%; 
+    }
 
     /*-------------------------------------------------------*/
     /*-------Подвал footer-----------------------------------*/
